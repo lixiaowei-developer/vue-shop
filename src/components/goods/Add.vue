@@ -220,4 +220,7 @@ export default {
 .btnAdd{
   margin-top: 15px;
 }
+.el-cascader{
+  width:100%;
+}
 </style>
